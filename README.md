@@ -88,3 +88,7 @@ Reading symbols from wasmtime...
 ```
 
 **Question**: Does it matters?
+
+## References
+- [Debugging with gdb and lldb](https://docs.wasmtime.dev/examples-debugging-native-debugger.html)
+- [Debugging WebAssembly with LLDB](https://www.youtube.com/watch?v=PevI_Mn-UUE)
